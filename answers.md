@@ -6,14 +6,14 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-ans.
+
 
 Software engineering at its root can be defined as: sysytematic application of engineering principes, methods and tools to the planning, designing , development, testing, deployment and maintenance of software products taiolored for consumption. 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-ans.
+
 
 software development - creating computer programmes to perform various tasks, has evolved significantly since its inception. These evolution has been driven by   1.technological advancements. 
                                                 2.Changing needs. 
@@ -31,7 +31,7 @@ This industry has seen various turning point since the pioneering days where man
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-ans.
+
 
 Software development is a complex and multifaceted process that transforms a concept or idea into a functuinal, reliable software application, to this to fruition developers follow a stractured process that consists of several key steps.
 
@@ -52,7 +52,7 @@ Software development is a complex and multifaceted process that transforms a con
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-ans.
+
 
 Each stand out due to their distinct approaches in the SDLC for they represent contrasting approaches in how projects are planned, executed and delivered.
 Waterfall is a traditional, linear approach where each phase of the project is completed in a sequence before moving on to the next one ,works well for projects with well-defined requirements and minimal expected changes. In contrast Agile is iterative and flexible, allowing for contionous improvement and adaptations throughout the project lifecycle.
@@ -65,7 +65,7 @@ Say Buiding a Telemedicine Startup App. A startup where users can consut doctors
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-ans.
+
 
 -A software developer;  responsible for translating features and requirements into lines of code that comprise the software. Developer roles are divided into two categories based on the part of the software they develop. Frontend and Backend Developer.
 
@@ -76,7 +76,7 @@ ans.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-ans.
+
 
 IDEs provide a scratch book where code is written and maintained and aso comes with toos that come in handy during debugging, testing deployament and code completion extensions, ex is Vs code.
 
@@ -86,7 +86,7 @@ allows you to revert selected files back to a previous state, revert the entire 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-Ans. 
+ 
 
 Throughout the development cycle, various challenges are encounterd.
 1. Changing requirements - during development leeding to scope creep and project delays. Solution is to layout the requirements fully or using a more change friendly development approach say Agile methodology.
@@ -97,7 +97,7 @@ Throughout the development cycle, various challenges are encounterd.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-ans.
+
 
 -Unit testing: involves testing individual moduleas or components of software ensuring they are operating as intended.
 
@@ -113,14 +113,14 @@ ans.
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-ans. 
+
 
 Process of crafting effective prompts to get the best response from AI models. A well layered prompt ensures a satisfactory response from the model in use.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-ans.
+
 
 vague prompt:
 "Build a website for my business."
